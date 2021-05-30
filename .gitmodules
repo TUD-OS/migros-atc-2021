@@ -1,0 +1,16 @@
+[submodule "konk"]
+	path = konk
+	url = https://github.com/planetA/konk.git
+	branch = migros-atc-2021
+[submodule "criu"]
+	path = criu
+	url = https://github.com/planetA/criu.git
+	branch = migros-atc-2021
+[submodule "rdma-core"]
+	path = rdma-core
+	url = https://github.com/planetA/rdma-core.git
+	branch = migros-atc-2021
+[submodule "perftest"]
+	path = perftest
+	url = https://github.com/planetA/perftest.git
+	branch = migros-atc-2021
