@@ -14,3 +14,7 @@
 	path = perftest
 	url = https://github.com/planetA/perftest.git
 	branch = migros-atc-2021
+[submodule "rxe-fix-races"]
+	path = rxe-fix-races
+	url = https://github.com/planetA/linux.git
+	branch = mplaneta/rxe-fix-races-rebase
