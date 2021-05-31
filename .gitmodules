@@ -18,3 +18,11 @@
 	path = rxe-fix-races
 	url = https://github.com/planetA/linux.git
 	branch = mplaneta/rxe-fix-races-rebase
+[submodule "linux-dump"]
+	path = linux-dump
+	url = https://github.com/planetA/linux.git
+	branch = migros-atc-2021/dump
+[submodule "rdma-rxe-workaround"]
+	path = rdma-core-workaround
+	url = https://github.com/planetA/rdma-core.git
+	branch = migros-atc-2021-workaround
